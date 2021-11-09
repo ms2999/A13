@@ -13,6 +13,12 @@
 		<h3>Celebrating our <em class ="shadow">75<sup>th</sup></em> Year</h3>
 
 	</header>
+	<ul id = "nav_menu">
+	<li><a href ="index.html>Home</a>
+	<li><a href ="index.html>Speakers</a>
+	<li><a href ="index.html>Luncheons</a>
+	<li><a href ="index.html>Tickets</a>
+	<li><a href ="index.html>About Us</a>
 	<main>
 		<h2>Our Mission</h2>
 
